@@ -1,0 +1,109 @@
+.head{
+	background: black;
+	color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+.h-d{
+	margin-left: 20px;
+}
+.banner{
+	background: url(../images/Camada3.png) no-repeat;
+	background-position: cover;
+	padding: 150px 0px;
+}
+.b-text{
+	
+}
+.banner h1{
+	color: white;
+	font-weight: 700;
+	font-size: 80px;
+}
+.banner .btn-custom{
+	
+background: black;
+	
+color: white;
+	
+padding: 10px 30px;
+	
+font-size: 16px;
+	
+margin-top: 30px;
+	
+margin-right: 50px;
+}
+.carasol span{
+	color: black;
+}
+.mission{
+	background: url(../images/Clip.png) no-repeat;
+	background-position: right;
+	padding: 150px 0px; 
+}
+.mission h1{
+	color: white;
+	font-size: 48px;
+	font-weight: 400;
+	margin-bottom: 50px;
+}
+.mission p{
+	color: white;
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+.feature{
+
+padding: 90px 0px;
+}
+.feature h1{
+
+font-size: 48px;
+
+margin-bottom: 20px;
+}
+.feature h2{
+
+}
+.feature .image{
+	
+margin-top: 40px;
+}
+.feature p{
+	
+font-size: 15px;
+margin-top: 10px;
+}
+footer{
+	background: black;
+	padding: 30px 0px;
+}
+footer ul li{
+	list-style: none;
+}
+footer ul li h1{
+	color: white;
+	font-size: 17px;
+	font-weight: 400;
+}
+footer p{
+	color: white;
+	font-size: 14px;
+	font-weight: 300;
+}
+footer ul li .icon{
+	margin: 0;
+	padding: 0;
+}
+footer ul li .icon li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+	color: white;
+}
+footer ul li .icon li a{
+	margin-left: 5PX;
+}
